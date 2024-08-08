@@ -1,8 +1,8 @@
 <a href="#">
-<h1 align="center">
+<h1 align="center"><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=MEHDI%20MAURON&reversal=true&fontSize=50&fontAlignY=42"/>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+MEHDI+MAURON...;A+FrontEnd+developer+&...;Nice+to+meet+you!&center=true&size=32&color=blue">
-</h1></a>
+</h1></a><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
 
 ```py
 
@@ -12,15 +12,15 @@
 
 ```
 
+<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
 <div align="center">
-<h1 align="center"><samp>📊 GitHub Trophies 📊</samp></h1>
+<h1 align="center"><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><samp>📊 GitHub Trophies 📊</samp></h1>
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memauron" alt="memauron" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memauron" alt="memauron" /></a><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"> </p>
 </div>
-
 <br>
 <div align="center">
-<h1 align="center"><samp>🌐  Connect to MEHDI MAURON 🌐 </samp></h1>
+<h1 align="center"><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><samp>🌐  Connect to MEHDI MAURON 🌐 </samp></h1>
 </div>
 <p align="center">
 <a href="https://twitter.com/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memauron" height="60" width="60" /></a>
@@ -31,8 +31,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/c/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@memauron" height="65" width="65" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/sama_b4" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="sama-babaee-web" height="70" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://samababaee8866@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="sama-babaee-web" height="70" width="70" /></a>
-</p>
+<a href="https://samababaee8866@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="sama-babaee-web" height="70" width="70" /></a></p>
 
 ```py
 
@@ -41,7 +40,7 @@
                                   👨‍💻  I Start Teach My Experience in Youtube Sooon ... 👨‍💻   
 
 ```
-
+<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
 <div align="center">
 <h1 align="center"><samp>💻 Languages and Tools 💻</samp></h1>
 </div>
@@ -66,7 +65,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="60"/> </a></p>
-<br>
+<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
 <div align="center">
 <h1 align="center"><samp>📊 GitHub Stats 📊</samp></h1>
 </div>
@@ -83,4 +82,5 @@
 <br/>
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memauron&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true"  alt=""/>
-</div>
+</div><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
+<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
