@@ -1,3 +1,6 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=MEHDI%20MAURON&reversal=true&fontSize=50&fontAlignY=40"/>
+</a>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+MEHDI+MAURON...;A+backend+developer+&...;Nice+to+meet+you!&center=true&size=30&color=Blue">
