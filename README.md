@@ -3,7 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+MEHDI+MAURON...;A+backend+developer+&...;Nice+to+meet+you!&center=true&size=30&color=Blue">
   </a>
 </h1>
-<br>
+
+```py
+                         Middle Backend & Front Developer & Bug Hunter & SQL Server Developer
+```
+
+<div align="center">
+<h1 align="center"><samp> GitHub Trophies </samp></h1>
+</div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memauron" alt="memauron" /></a> </p>
 </div>
 
@@ -12,13 +19,13 @@
 <h1 align="center"><samp> Connect to MEHDI MAURON </samp></h1>
 </div>
 <p align="center">
-<a href="https://twitter.com/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memauron" height="50" width="60" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="memauron" height="50" width="60" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="memauron" height="50" width="60" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="memauron" height="50" width="60" /></a>
+<a href="https://twitter.com/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memauron" height="60" width="60" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="memauron" height="60" width="60" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="memauron" height="60" width="60" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="memauron" height="60" width="60" /></a>
 </p>
 <br>
 <div align="center">
@@ -63,3 +70,8 @@
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memauron&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true"  alt=""/>
 </div>
+
+```py
+    Middle Backend & Front Developer - Bug Hunter - SQL Server Developer
+```
+
