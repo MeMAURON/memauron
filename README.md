@@ -5,7 +5,7 @@
 </h1>
 
 ```py
-                         Middle Backend & Front Developer & Bug Hunter & SQL Server Developer
+                           Middle Python Backend Developer & Bug Hunter & SQL Server Developer
 ```
 
 <div align="center">
