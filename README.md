@@ -52,6 +52,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="60"/> </a> </p>
 
+
 <br>
 <div align="center">
 <h1 align="center"><samp>  GitHub Stats  </samp></h1>
@@ -70,8 +71,3 @@
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memauron&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true"  alt=""/>
 </div>
-
-```py
-    Middle Backend & Front Developer - Bug Hunter - SQL Server Developer
-```
-
