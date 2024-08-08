@@ -1,7 +1,9 @@
-<a href="#">
-<h1 align="center"><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=MEHDI%20MAURON&reversal=true&fontSize=50&fontAlignY=42"/>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+MEHDI+MAURON...;A+FrontEnd+developer+&...;Nice+to+meet+you!&center=true&size=32&color=blue">
+<a href="#"><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><h1 align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=MEHDI%20MAURON&reversal=true&fontSize=50&fontAlignY=42"/>
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=7000&size=21&pause=1100&color=00FF00&vCenter=true&random=false&width=610&height=20&lines=%20%20++++A+passionate+FrontEnd+Developer+from+Iran" alt="Typing SVG" /></a></h3>
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=f8f8f8&vCenter=true&random=false&width=530&height=20&lines=%20%20++++Enthusiastic+for+user-friendliness" alt="Typing SVG" /></a></h3>
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=FF4500&vCenter=true&random=false&width=600&height=20&lines=%20%20++++Always+learning,%20evolving+in+web+development" alt="Typing SVG" /></a></h3>
+
 </h1></a><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
 
 ```py
