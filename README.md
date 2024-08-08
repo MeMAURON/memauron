@@ -1,14 +1,9 @@
-<br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+MEHDI+MAURON...;A+backend+developer+&...;Nice+to+meet+you!&center=true&size=30&color=Blue">
   </a>
 </h1>
 <br>
-<div align="center">
-<h1 align="center"><samp></samp></h1>
-</div>
-<div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memauron" alt="memauron" /></a> </p>
 </div>
 
