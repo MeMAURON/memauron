@@ -1,25 +1,26 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=MEHDI%20MAURON&reversal=true&fontSize=50&fontAlignY=40"/>
-</a>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+MEHDI+MAURON...;A+backend+developer+&...;Nice+to+meet+you!&center=true&size=30&color=Blue">
-  </a>
-</h1>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=MEHDI%20MAURON&reversal=true&fontSize=50&fontAlignY=42"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+MEHDI+MAURON...;A+FrontEnd+developer+&...;Nice+to+meet+you!&center=true&size=32&color=blue">
+</h1></a>
 
 ```py
-                     Middle Python Backend Developer & Bug Hunter & SQL Server Developer
+
+         💡 I am MEHDI MAURON, A FrontEnd developer who is looking to grow as a Full-Stack Developer
+
+         💬 Ask me about Python , Javascript , Bootstrap , HTML5 , Css3 , Mysql , Django , etc...
+
 ```
 
 <div align="center">
-<h1 align="center"><samp> GitHub Trophies </samp></h1>
+<h1 align="center"><samp>📊 GitHub Trophies 📊</samp></h1>
 </div>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memauron" alt="memauron" /></a> </p>
 </div>
 
 <br>
 <div align="center">
-<h1 align="center"><samp> Connect to MEHDI MAURON </samp></h1>
+<h1 align="center"><samp>🌐  Connect to MEHDI MAURON 🌐 </samp></h1>
 </div>
 <p align="center">
 <a href="https://twitter.com/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memauron" height="60" width="60" /></a>
@@ -28,8 +29,21 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="memauron" height="60" width="60" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="memauron" height="60" width="60" /></a></p><br><div align="center">
-<h1 align="center"><samp> Languages and Tools</samp></h1>
+<a href="https://www.youtube.com/c/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@memauron" height="65" width="65" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/sama_b4" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="sama-babaee-web" height="70" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://samababaee8866@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="sama-babaee-web" height="70" width="70" /></a>
+</p>
+
+```py
+
+                                  💬  Please Follow and Subscribe My Social Media  💬
+
+                                  👨‍💻  I Start Teach My Experience in Youtube Sooon ... 👨‍💻   
+
+```
+
+<div align="center">
+<h1 align="center"><samp>💻 Languages and Tools 💻</samp></h1>
 </div>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="60"/> </a> 
@@ -54,7 +68,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="60"/> </a></p>
 <br>
 <div align="center">
-<h1 align="center"><samp>  GitHub Stats  </samp></h1>
+<h1 align="center"><samp>📊 GitHub Stats 📊</samp></h1>
 </div>
 <br>
 <p align="center"
