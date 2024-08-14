@@ -28,10 +28,8 @@
 <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
 <div align="center"><h1 align="center"><samp>📊 GitHub Stats 📊</samp></h1></div><br><p align="center"<br>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memauron&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/></div><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memauron&layout=donut&theme=vision-friendly-dark" alt="Top Langs" height="175"><br>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=memauron&theme=highcontrast&border_radius=0&stroke=EB5454&currStreakNum=3836EB&sideNums=8BEB55&sideLabels=EB8720" alt="stats" /></div><br>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=memauron&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/></div><br/>
-<div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memauron&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true"  alt=""/>
 </div><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
-<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
+<p><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=memauron&theme=react-dark" /><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
