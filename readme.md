@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=MEHDI%20MAURON&reversal=true&fontSize=50&fontAlignY=42"/><h3 align="center" >
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=%20MAURON&reversal=true&fontSize=50&fontAlignY=42"/><h3 align="center" >
 ```py
   offduty : 2025-06-26 ==> 10:30 🎉
 ```
@@ -7,7 +7,7 @@
 
 ```py
 
-         💡 I am MEHDI MAURON, A FrontEnd developer who is looking to grow as a Full-Stack Developer
+         💡 I am MAURON, A FrontEnd developer who is looking to grow as a Full-Stack Developer
 
          💬 Ask me about Python , Javascript , Bootstrap , HTML5 , Css3 , Mysql , Django , etc...
 
