@@ -2,7 +2,8 @@
 ```py
   offduty : 2025-06-26 ==> 10:30 🎉
 ```
-<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><h1 align="center"><a href="https://git.io/typing-svg"></a></h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=f8f8f8&vCenter=true&random=false&width=650&height=20&lines=%20%20++++Enthusiastic+for+user-friendliness" alt="Typing SVG" /></a></h3> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"> 
+<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><h1 align="center"><a href="https://git.io/typing-svg"></a></h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=f8f8f8&vCenter=true&random=false&width=650&height=20&lines=%20%20++++Enthusiastic+for+user-friendliness" alt="Typing SVG" /></a></h3> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"> 
 
 
 ```py
