@@ -54,8 +54,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="60"/> </a></p>
 <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
 <div align="center"><h1 align="center"><samp>📊 GitHub Stats 📊</samp></h1></div><br><p align="center"<br><div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memauron&layout=donut&theme=vision-friendly-dark" alt="Top Langs" height="175"><br>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=memauron&theme=highcontrast&border_radius=0&stroke=EB5454&currStreakNum=3836EB&sideNums=8BEB55&sideLabels=EB8720" alt="stats" /></div><br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memauron&layout=donut&theme=vision-friendly-dark" alt="Top Langs" height="175"><br>
+ <img src ="https://github-readme-streak-stats.herokuapp.com?user=memauron&theme=highcontrast&border_radius=0&stroke=EB5454&currStreakNum=3836EB&sideNums=8BEB55&sideLabels=EB8720" alt="stats" /></div>
+<br>
 <div align="center">
 </div><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
-<p><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
+<p><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
+<img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
+<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
