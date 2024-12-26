@@ -1,24 +1,30 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=%20MAURON&reversal=true&fontSize=50&fontAlignY=42"/><h3 align="center" >
-```py
-  offduty : 2025-06-26 ==> 10:30 🎉
-```
-<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><h1 align="center"><a href="https://git.io/typing-svg"></a></h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<h3 align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=21&pause=1100&color=f8f8f8&vCenter=true&random=false&width=650&height=20&lines=%20%20++++Enthusiastic+for+user-friendliness" alt="Typing SVG" /></a></h3>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=%20MAURON&reversal=true&fontSize=50&fontAlignY=42"/>
+<div align="center"><h1 align="center">
+<samp>📊 GitHub Trophies 📊</samp></h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeMAURON&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MeMAURON&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeMAURON&theme=merko"&area=true&hide_border=false&order=5" height="212" />
+</div>
 
-```py
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeMAURON&radius=16&theme=merko&area=true&order=5&hide_border=false" height="260" alt="activity-graph graph"  />
+</div>
 
-         💡 I am MAURON, A FrontEnd developer who is looking to grow as a Full-Stack Developer
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MeMAURON&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="230" alt="languages graph"  />
+</div>
 
-         💬 Ask me about Python , Javascript , Bootstrap , HTML5 , Css3 , Mysql , Django , etc...
-
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=MeMAURON&theme=onestar&column=10&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+</div>
 
 <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
-<div align="center"><h1 align="center"><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><samp>📊 GitHub Trophies 📊</samp></h1>
-</div>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=memauron" alt="memauron" /></a>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"></p></div><br><div align="center"><h1 align="center">
 <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><samp>🌐  Connect to MAURON 🌐 </samp></h1>
 </div>
@@ -53,9 +59,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="60"/> </a></p>
 <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
-<div align="center"><h1 align="center"><samp>📊 GitHub Stats 📊</samp></h1></div><br><p align="center"<br><div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memauron&layout=donut&theme=vision-friendly-dark" alt="Top Langs" height="175"><br>
- <img src ="https://github-readme-streak-stats.herokuapp.com?user=memauron&theme=highcontrast&border_radius=0&stroke=EB5454&currStreakNum=3836EB&sideNums=8BEB55&sideLabels=EB8720" alt="stats" /></div>
+<div align="center"><h1 align="center">
+
+```py
+  offduty : 2025-06-26 ==> 10:30 🎉
+```
+
 <br>
 <div align="center">
 </div><img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
