@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=%20MAURON&reversal=true&fontSize=50&fontAlignY=42"/>
-<div align="center"><h1 align="center">
+<h1 align="center">
 <samp>📊 GitHub Trophies 📊</samp></h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MeMAURON&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -18,15 +18,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MeMAURON&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="230" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MeMAURON&theme=onestar&column=10&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-</div>
-
 <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"></p></div><br><div align="center"><h1 align="center">
-<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"><samp>🌐  Connect to MAURON 🌐 </samp></h1>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app?username=MeMAURON&theme=onestar&column=10&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050"></p></div><br>
+<div align="center">
+<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
+<h1 align="center">
+<samp>🌐  Connect to MAURON 🌐 </samp></h1>
 </div>
 <p align="center"><a href="https://twitter.com/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memauron" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="memauron" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/memauron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="memauron" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCe72c0-S0ju9YV240N8S0YQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@memauron" height="65" width="65" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/memauron" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="sama-babaee-web" height="70" width="70" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://samababaee8866@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="sama-babaee-web" height="70" width="70" /></a></p>
 
